@@ -1,0 +1,15 @@
+- What is HTTP? hypertext transfer protocol
+- What is a URL? universal resource locator
+- What is DNS? domain name system
+- What is a query string? allows you to pass key-value pairs to a url
+- What are two HTTP verbs and how are they different? GET - gets data from server, POST - sends data to a server
+- What is an HTTP request? request from client to a server using HTTP 
+- What is an HTTP response? response from a server to the client
+- What is an HTTP header? Give a couple examples of request and response headers you have seen. additional info about the request.  
+
+request: accept, cookie
+
+response: set-cookie, cach control
+- What are the processes that happen when you type “[http://somesite.com/some/page.html](http://somesite.com/some/page.html)” into a browser?
+resolves the name, makes request to the ip address, server sends a response, browser generated a DOM and finds resources, 
+
